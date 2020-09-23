@@ -26,5 +26,4 @@ console.log(count.value) // 1
 ```
 
 ## Resultado
-
-![ezgif.com-video-to-gif](ezgif.com-video-to-gif.gif)
+![example](https://thumbs.gfycat.com/TepidBriskJabiru-size_restricted.gif)
