@@ -37,6 +37,8 @@ console.log(count.value) // 1
 ## Deploy
 Para fazer o deploy, utilizei o [surge](https://surge.sh) em conjunto do terminal (Termux). E em menos de 5 minutos a aplicação estava no ar! 🚀
 
+![terminal](https://i.imgur.com/eh2QC54_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
+
 [Site do projeto](http://vuejs3-jokes.surge.sh)
 
 ### Resultado
