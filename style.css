@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+}
+
+
+.title {
+  text-align: center
+}
+
+.joke {
+  background: #cce7e8;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.jokes-enter-active,
+.jokes-leave-active {
+  transition: all 1s ease;
+}
+.jokes-enter-from,
+.jokes-leave-to {
+  opacity: 0;
+  transform: translateY(30px);
+}
