@@ -4,9 +4,9 @@ Simples v-for list pegandos dados da API Daddy jokes, utilizando o novo Vuejs 3 
 
 ## Como foi desenvolvido?
 
-Estava um dia chuvoso, frio e muito cansativo. Estava eu em meu sofá, macio e com muita vontade de codar. Foi aí que descidi pegar meu celular e verificar como seria desenvolver e publicar um simples site tudo através desse poderoso computador. 
+Estava um dia chuvoso, frio e muito cansativo. Estava eu em meu sofá, macio e com muita vontade de codar. Foi aí que descidi pegar meu celular e verificar como seria desenvolver e publicar um simples site tudo através desse poderoso celular. 
 
-### Ferramentas utilizados
+### Ferramentas utilizadas
 | Nome | Descrição |
 |--|--|
 | Spck Editor | Um poderoso editor com snippets, corretor e muito mais. Me senti tilizando meu queridinho VsCode ♥️ |
